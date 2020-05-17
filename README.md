@@ -2,4 +2,4 @@
 Luck, I'm ur father!
 
 
-https://mybinder.org/v2/gh/MatthewGrover/Kursach/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MatthewGrover/Kursach/master)
